@@ -1,0 +1,153 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Crystal.SafeArea" preserve="all" />
+  </assembly>
+  <assembly fullname="CreatureMerger, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Runtime.CreatureMerger.Achievements.AchView" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Daily.RewardDayWidget" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Daily.RewardPanelController" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Daily.SlidingPanelController" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.AutomatedSpawner" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.BuildingMenu" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.BuildMenuInitializer" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.CollectibleCollector" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.CollectiblesSpawner" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.Creature" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.CreatureDragController" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.CreatureProfitDisplay" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.EconomyConfig" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.ErrorDisplay" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.GameEconomyConfig" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.GameEventCollectible" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.PlanetUnlocker" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.PlayerBalanceView" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.PlayerCreatureMergeHelper" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Gameplay.SpawnButton" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Services.GameSkinsConfig" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Services.SkinSet" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Services.UI.UiServiceViewContainer" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.Tutorial.TutorialManager" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.AccessoryPurchaseButton" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.AccessoryPurchaseTab" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.AccessoryView" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.BackgroundPurchaseButton" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.BackgroundPurchaseTab" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.CoinGeneretationButton" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.EventPurchaseButton" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.EventsPurchaseTab" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.FlyAnimator" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.PlanetFillDisplay" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.PlanetUnlockButton" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Popup.AchievementsPopup" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Popup.DailyBonusPopup" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Popup.NewSettingsPopup" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Popup.PlanetErrorPopup" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Popup.PrivacyPolicyPopup" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Popup.RewardPopup" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Popup.SpecialEventsPopup" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Popup.TermsOfUsePopup" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Popup.Tutorial1Popup" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Popup.Tutorial2Popup" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.PopupTab" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.PopupTabsController" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Screen.GameplayScreen" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Screen.ScreenFade" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Screen.SplashScreen" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.Screen.TutorialScreen" preserve="all" />
+    <type fullname="Runtime.CreatureMerger.UI.ShopError" preserve="all" />
+  </assembly>
+  <assembly fullname="Services, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Runtime.Services.SamplesConfig" preserve="all" />
+    <type fullname="Runtime.Services.SampleData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.LineRenderer" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphValueRecord" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
